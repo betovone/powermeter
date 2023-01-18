@@ -10,7 +10,7 @@ Ejercicio Nro 1
 - Instalar GIT
 
 - Clonar repositorio
-  Ejemplo: git clone https...
+  Ejemplo: git clone https://github.com/betovone/powermeter.git
   
 - Activar entorno virtual
   Ejemplo: source venv/bin/activate
